@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#444",
+    "navigationBarTitleText": "对话框弹出",
+    "navigationBarTextStyle":"white"
+  }
+}

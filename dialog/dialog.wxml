@@ -1,0 +1,6 @@
+<!--dialog/dialog.wxml-->
+<view class='mask' hidden='{{!show}}' style='height:{{windowHeight}}px'  bindtap='clickMask' />
+
+<view class='dialog-container'>
+    <view class='dialog' animation='{{dialogAnim}}'>你就当我是对话框</view>
+</view>

@@ -1,0 +1,2 @@
+<button class='button' bindtap='clickShowDialog'>show dialog</button>
+<dialog show='{{dialogShow}}' />
